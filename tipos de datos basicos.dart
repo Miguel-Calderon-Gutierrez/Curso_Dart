@@ -12,4 +12,9 @@ void main(){
   
   var dinamica = 'cadena dinamica';
   print(dinamica);
+  
+  bool? bandera = true;
+  bandera = null;
+  print(bandera);
+  
 }
